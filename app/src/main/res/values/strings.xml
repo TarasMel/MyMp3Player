@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMp3Player</string>
+    <string name="play_str">Play</string>
+    <string name="pause_str">Pause</string>
+    <string name="stop_str">Stop</string>
+
+    <string name="my_channel_id">01_id</string>
+    <string name="channel_name">my_channel</string>
+    <string name="channel_description">This is my channel</string>
+
+    <string name="content_title">Music Player</string>
+
+
+</resources>
